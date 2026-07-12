@@ -126,6 +126,7 @@ Node* maxVal(Node* root){
     return temp;
 }
 
+
 Node* deleteNode(Node* root,int val){
     if(root == NULL) 
        return NULL;
